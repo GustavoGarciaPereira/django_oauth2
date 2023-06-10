@@ -55,6 +55,11 @@ Este boilerplate foi projetado para ser um ponto de partida para novos projetos 
 
 Para utilizar este boilerplate em seu novo projeto, você deve seguir os passos de configuração mencionados acima. Em seguida, você pode começar a adicionar suas próprias models, views, templates e outros componentes do Django conforme necessário.
 
+## Curl
+![alt](./Screenshot%20from%202023-06-10%2010-11-05.png)
+
+
+![alt](./Screenshot%20from%202023-06-10%2010-11-34.png)
 ## Contribuições
 Contribuições para este boilerplate são bem-vindas! Por favor, leia o arquivo CONTRIBUTING.md para detalhes sobre nosso código de conduta e o processo de submissão de solicitações pull.
 
